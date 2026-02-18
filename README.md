@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <h1>Greetings!</h1>
+  <p>My name is Andrew</p>
+</div>
 
 <!--
 **Kitobeer/Kitobeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
