@@ -67,10 +67,15 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 
 ---
 
+<div align="center">
+  
 ## 📫 Contact Me
-- **LinkedIn:** [Your Profile Name](https://linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Telegram:** [@yourusername](https://t.me/yourusername)
+
+<a href="mailto:kitobeerag@gmail.com"><img width="64" height="64" alt="Telegram_Messenger" src="https://github.com/user-attachments/assets/e809f348-d7e3-4097-b3c5-dd02a9861bdd"></a>
+<a href="mailto:kitobeerag@gmail.com"><img width="64" height="64" alt="Telegram_Messenger" src="https://github.com/user-attachments/assets/e809f348-d7e3-4097-b3c5-dd02a9861bdd"></a>
+<a href="mailto:kitobeerag@gmail.com"><img width="64" height="64" alt="Telegram_Messenger" src="https://github.com/user-attachments/assets/e809f348-d7e3-4097-b3c5-dd02a9861bdd"></a>
+
+</div>
 
 <div align="right">
   <i>"Fate is inexorable." ᚦ</i>
