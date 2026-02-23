@@ -65,10 +65,10 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
   
 # 📊 GitHub Stats 📊
 
-<img src="https://streak-stats.demolab.com/?user=Kitobeer&theme=dark" width="40%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitobeer&theme=dark" width="55.5%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kitobeer&theme=dark" width="48%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitobeer&theme=dark" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Kitobeer&theme=city_lights" width="40%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitobeer&theme=city_lights" width="55.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kitobeer&theme=city_lights" width="48%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitobeer&theme=city_lights" width="48%" />
 
 </div>
 
