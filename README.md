@@ -1,6 +1,8 @@
 <div align="center">
 
-![NorthernLightsLiveWallpaper-MyLiveWallpapers com-ezgif com-crop](https://github.com/user-attachments/assets/86120853-ff18-4fa6-924d-b9ab0d903fc6)
+
+![ezgif-80ecadf000bb7fbc](https://github.com/user-attachments/assets/4f4159ec-bbdb-440c-9185-4e319d30b0a5)
+
 
 
 # Hi, I'm Andrew 🐺
