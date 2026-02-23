@@ -1,6 +1,7 @@
-
-
 <div align="center">
+
+![NorthernLightsLiveWallpaper-MyLiveWallpapers com-ezgif com-crop](https://github.com/user-attachments/assets/86120853-ff18-4fa6-924d-b9ab0d903fc6)
+
 
 # Hi, I'm Andrew 🐺
 ### Junior Programmer | Student at Polar State University <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="48" height="48"> </picture>
