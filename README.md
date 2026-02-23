@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # Hi, I'm Andrey 🐺
@@ -76,12 +78,12 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
   
 ## 📫 Contact Me
 
-<a href="mailto:kitobeerag@gmail.com"><img width="64" height="64" alt="Email" src="https://github.com/user-attachments/assets/0547df49-289f-4af3-987d-bd6a833e8b9d"></a>
-<a href="https://t.me/kitobeer"><img width="64" height="64" alt="Telegram" src="https://github.com/user-attachments/assets/e809f348-d7e3-4097-b3c5-dd02a9861bdd"></a>
-<a href="https://discordapp.com/users/207179112865857537"><img width="64" height="64" alt="Discord" src="https://github.com/user-attachments/assets/481e49fd-622a-404b-aa7b-a9862ad98db7"></a>
+<a href="mailto:kitobeerag@gmail.com"><img width="128" height="128" alt="Email" src="https://github.com/user-attachments/assets/0547df49-289f-4af3-987d-bd6a833e8b9d"></a>
+<a href="https://t.me/kitobeer"><img width="128" height="128" alt="Telegram" src="https://github.com/user-attachments/assets/e809f348-d7e3-4097-b3c5-dd02a9861bdd"></a>
+<a href="https://discordapp.com/users/207179112865857537"><img width="128" height="128" alt="Discord" src="https://github.com/user-attachments/assets/481e49fd-622a-404b-aa7b-a9862ad98db7"></a>
 
 </div>
 
 <div align="right">
-  <i>"Fate is inexorable." ᚦ</i>
+  <i>ᚦ ᚹ ᛦ « Wyrd gæð ā wyrd swā hīo scel. » ᛦ ᚹ ᚦ</i>
 </div>
