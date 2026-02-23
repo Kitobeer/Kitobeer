@@ -42,7 +42,7 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 <tr>
 </td>
 <td width="100">
-<img src="https://img.shields.io/badge/C%2B%2B--blue?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/b86d6b28-60de-4350-8866-aa73d349b4a7" alt="C++" width="100" height="100"> <img src="https://geps.dev/progress/20" width="150" height="150">
+<img src="https://img.shields.io/badge/C%2B%2B--00599C?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/b86d6b28-60de-4350-8866-aa73d349b4a7" alt="C++" width="100" height="100"> <img src="https://geps.dev/progress/20" width="150" height="150">
 </td>
 <td width="100">
 <img src="https://img.shields.io/badge/C%23--purple?style=flat-square" width="100" height="47"> <img src="https://github.com/user-attachments/assets/6b706526-baa3-4e66-8cab-98190a5f3291" alt="C#" width="100" height="100"> <img src="https://geps.dev/progress/5" width="150" height="150">
@@ -53,11 +53,11 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 ### 🎨 Design & Creative 🎨
 <table border="0" align="center">
 <td width="100">
-<img src="https://img.shields.io/badge/PS--darkblue?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/3f08c87a-72f5-4e49-a328-47e97544b36d" alt="Photoshop" width="100" height="100"> <img src="https://geps.dev/progress/80" width="150" height="150">
+<img src="https://img.shields.io/badge/PS--31A8FF?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/3f08c87a-72f5-4e49-a328-47e97544b36d" alt="Photoshop" width="100" height="100"> <img src="https://geps.dev/progress/80" width="150" height="150">
 </td>
 
 <td width="100">
-<img src="https://img.shields.io/badge/C%23--violet?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/773c0523-f8fe-407e-8f98-12c3d69f8bca" alt="Premiere" width="100" height="100"> <img src="https://geps.dev/progress/50" width="150" height="150">
+<img src="https://img.shields.io/badge/PR--E48CF8?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/773c0523-f8fe-407e-8f98-12c3d69f8bca" alt="Premiere" width="100" height="100"> <img src="https://geps.dev/progress/50" width="150" height="150">
 </td>
 </table>
 
