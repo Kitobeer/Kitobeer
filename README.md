@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Andrey 🐺
+# Hi, I'm Andrew 🐺
 ### Junior Programmer | Student at Polar State University <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="48" height="48"> </picture>
 
 ---
@@ -24,9 +24,9 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 ---
 <div align="center">
   
-# 🛠 Tech Stack & Tools
+# 🛠 Tech Stack & Tools 🛠
 
-### 💻 Development
+### 💻 Development 💻
 <table border="0" align="center">
 <tr>
 <td width="100">
@@ -47,7 +47,7 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 </tr>
 </table>
 
-### 🎨 Design & Creative
+### 🎨 Design & Creative 🎨
 <table border="0" align="center">
 <td width="100">
 <img src="https://img.shields.io/badge/PS--darkblue?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/3f08c87a-72f5-4e49-a328-47e97544b36d" alt="Photoshop" width="100" height="100"> <img src="https://geps.dev/progress/80" width="150" height="150">
@@ -63,7 +63,7 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 ---
 <div align="center">
   
-## 📊 GitHub Stats
+# 📊 GitHub Stats 📊
 
 <img src="https://streak-stats.demolab.com/?user=Kitobeer&theme=dark" width="40%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitobeer&theme=dark" width="55.5%" />
