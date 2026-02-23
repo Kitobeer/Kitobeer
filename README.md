@@ -28,7 +28,7 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 <table border="0" align="center">
 <tr>
 <td width="100">
-<img src="https://img.shields.io/badge/HTML%2FCSS--orange?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/ea5de1bd-0cef-40a7-bea6-a4d3fa9ce604" alt="HTML5" width="100" height="100"> <img src="https://geps.dev/progress/75" width="150" height="150">
+<img src="https://img.shields.io/badge/HTML%2FCSS--orange?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/ea5de1bd-0cef-40a7-bea6-a4d3fa9ce604" alt="HTML5" width="100" height="100"> <img src="https://geps.dev/progress/60" width="150" height="150">
 </td>
 <td width="100">
 <img src="https://img.shields.io/badge/Python--yellow?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/f27f3197-2adf-4cef-b8e8-939bcf9ca0b3" alt="Python" width="100" height="100"> <img src="https://geps.dev/progress/50" width="150" height="150">
@@ -40,7 +40,7 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 <img src="https://img.shields.io/badge/C%2B%2B--blue?style=flat-square" width="100" height="100"> <img src="https://github.com/user-attachments/assets/b86d6b28-60de-4350-8866-aa73d349b4a7" alt="C++" width="100" height="100"> <img src="https://geps.dev/progress/20" width="150" height="150">
 </td>
 <td width="100">
-<img src="https://img.shields.io/badge/C%23--purple?style=flat-square" width="100" height="47"> <img src="https://github.com/user-attachments/assets/6b706526-baa3-4e66-8cab-98190a5f3291" alt="C#" width="100" height="100"> <img src="https://geps.dev/progress/20" width="150" height="150">
+<img src="https://img.shields.io/badge/C%23--purple?style=flat-square" width="100" height="47"> <img src="https://github.com/user-attachments/assets/6b706526-baa3-4e66-8cab-98190a5f3291" alt="C#" width="100" height="100"> <img src="https://geps.dev/progress/5" width="150" height="150">
 </td>
 </tr>
 </table>
@@ -62,8 +62,11 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 <div align="center">
   
 ## 📊 GitHub Stats
-  
-![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=kitobeer&show_icons=true&theme=dark)
+
+<img src="https://streak-stats.demolab.com/?user=Kitobeer&theme=dark" width="40%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitobeer&theme=dark" width="55.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kitobeer&theme=dark" width="48%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitobeer&theme=dark" width="48%" />
 
 </div>
 
