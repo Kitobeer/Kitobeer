@@ -32,46 +32,57 @@ Currently, I am deepening my knowledge in **C#** and **C++** for high-performanc
 ### 💻 Development 💻
 <table border="0" align="center">
 <tr>
-<td width="100">
-<img src="https://img.shields.io/badge/HTML%2FCSS--orange?style=flat-square" width="100" height="50"> <img src="https://github.com/user-attachments/assets/ea5de1bd-0cef-40a7-bea6-a4d3fa9ce604" alt="HTML5" width="100" height="100"> <img src="https://geps.dev/progress/60" width="100" height="25">
+<td width="120" align="center">
+  <img src="https://img.shields.io/badge/HTML%2FCSS--orange?style=flat-square" width="100" height="40"><br>
+  <img src="https://github.com/user-attachments/assets/ea5de1bd-0cef-40a7-bea6-a4d3fa9ce604" alt="HTML5" width="80" height="80"><br>
+  <img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square">
 </td>
-<td width="100">
-<img src="https://img.shields.io/badge/Python--yellow?style=flat-square" width="100" height="50"> <img src="https://github.com/user-attachments/assets/f27f3197-2adf-4cef-b8e8-939bcf9ca0b3" alt="Python" width="100" height="100"> <img src="https://geps.dev/progress/50" width="100" height="25">
+<td width="120" align="center">
+  <img src="https://img.shields.io/badge/Python--yellow?style=flat-square" width="100" height="40"><br>
+  <img src="https://github.com/user-attachments/assets/f27f3197-2adf-4cef-b8e8-939bcf9ca0b3" alt="Python" width="80" height="80"><br>
+  <img src="https://img.shields.io/badge/Level-Upper--Inter-green?style=flat-square">
 </td>
 </tr>
 <tr>
+<td width="120" align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B--00599C?style=flat-square" width="100" height="40"><br>
+  <img src="https://github.com/user-attachments/assets/b86d6b28-60de-4350-8866-aa73d349b4a7" alt="C++" width="80" height="80"><br>
+  <img src="https://img.shields.io/badge/Level-Intermediate-yellowgreen?style=flat-square">
 </td>
-<td width="100">
-<img src="https://img.shields.io/badge/C%2B%2B--00599C?style=flat-square" width="100" height="50"> <img src="https://github.com/user-attachments/assets/b86d6b28-60de-4350-8866-aa73d349b4a7" alt="C++" width="100" height="100"> <img src="https://geps.dev/progress/20" width="100" height="25">
-</td>
-<td width="100">
-<img src="https://img.shields.io/badge/C%23--purple?style=flat-square" width="100" height="50"> <img src="https://github.com/user-attachments/assets/6b706526-baa3-4e66-8cab-98190a5f3291" alt="C#" width="100" height="100"> <img src="https://geps.dev/progress/5" width="100" height="25">
+<td width="120" align="center">
+  <img src="https://img.shields.io/badge/C%23--purple?style=flat-square" width="100" height="40"><br>
+  <img src="https://github.com/user-attachments/assets/6b706526-baa3-4e66-8cab-98190a5f3291" alt="C#" width="80" height="80"><br>
+  <img src="https://img.shields.io/badge/Level-Beginner-orange?style=flat-square">
 </td>
 </tr>
 </table>
 
 ### 🎨 Design & Creative 🎨
 <table border="0" align="center">
-<td width="100">
-<img src="https://img.shields.io/badge/PS--31A8FF?style=flat-square" width="100" height="50"> <img src="https://github.com/user-attachments/assets/3f08c87a-72f5-4e49-a328-47e97544b36d" alt="Photoshop" width="100" height="100"> <img src="https://geps.dev/progress/80" width="100" height="25">
+<tr>
+<td width="120" align="center">
+  <img src="https://img.shields.io/badge/PS--31A8FF?style=flat-square" width="100" height="40"><br>
+  <img src="https://github.com/user-attachments/assets/3f08c87a-72f5-4e49-a328-47e97544b36d" alt="Photoshop" width="80" height="80"><br>
+  <img src="https://img.shields.io/badge/Level-Advanced-brightgreen?style=flat-square">
 </td>
-
-<td width="100">
-<img src="https://img.shields.io/badge/PR--E48CF8?style=flat-square" width="100" height="50"> <img src="https://github.com/user-attachments/assets/773c0523-f8fe-407e-8f98-12c3d69f8bca" alt="Premiere" width="100" height="100"> <img src="https://geps.dev/progress/50" width="100" height="25">
+<td width="120" align="center">
+  <img src="https://img.shields.io/badge/PR--E48CF8?style=flat-square" width="100" height="40"><br>
+  <img src="https://github.com/user-attachments/assets/773c0523-f8fe-407e-8f98-12c3d69f8bca" alt="Premiere" width="80" height="80"><br>
+  <img src="https://img.shields.io/badge/Level-Intermediate-yellowgreen?style=flat-square">
 </td>
+</tr>
 </table>
-
-</div>
 
 ---
 <div align="center">
   
 # 📊 GitHub Stats 📊
 
-<img src="https://streak-stats.demolab.com/?user=Kitobeer&theme=city_lights" width="40%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitobeer&theme=city_lights" width="55.5%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kitobeer&theme=city_lights" width="48%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitobeer&theme=city_lights" width="48%" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.vercel.app?user=Kitobeer&theme=gotham&border=000000" alt="GitHub Streak" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitobeer&theme=gotham" width="55.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kitobeer&theme=gotham" width="48%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitobeer&theme=gotham" width="48%" />
 
 </div>
 
